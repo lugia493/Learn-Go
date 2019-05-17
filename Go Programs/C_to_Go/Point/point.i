@@ -1,0 +1,5 @@
+%{
+#include "point.hxx"
+%}
+
+%include "point.hxx"
